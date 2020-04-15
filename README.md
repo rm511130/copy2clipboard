@@ -1,5 +1,5 @@
-```javascript
-src='https://wzrd.in/standalone/copy-button@latest'
+```
+<script src='https://wzrd.in/standalone/copy-button@latest'></script>
 ```
 
 # copy2clipboard
